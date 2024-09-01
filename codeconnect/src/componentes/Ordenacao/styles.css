@@ -1,0 +1,16 @@
+.ordenacoes {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 32px;
+}
+
+.link__1 {
+    color: var(--verde-destaque);
+    font-weight: bold;
+}
+
+.link__2 {
+    color: var(--cinza-médio);
+    text-decoration: none;
+}
